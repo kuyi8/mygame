@@ -1,0 +1,16 @@
+using UnityEngine;
+
+public class FootStepEvent : MonoBehaviour
+{
+    public void FootL()
+    {
+        // ×ó½ÅÂäµØ
+        //Debug.Log("Left Foot");
+    }
+
+    public void FootR()
+    {
+        // ÓÒ½ÅÂäµØ
+        //Debug.Log("Right Foot");
+    }
+}
